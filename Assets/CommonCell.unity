@@ -10138,6 +10138,75 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6d6ce33b43be4ea4587a9d837bad8c98, type: 3}
   m_PrefabInstance: {fileID: 1051247170}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1056382266
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.054999
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.644
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.15395
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2371356195453910193, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43fb126acb60cf441b9bea9a99d8d2f5, type: 2}
+    - target: {fileID: -2124556216270073660, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43fb126acb60cf441b9bea9a99d8d2f5, type: 2}
+    - target: {fileID: -1821883719999131711, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a2f466b85279a3e438c02ced36476ae7, type: 2}
+    - target: {fileID: 919132149155446097, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Name
+      value: Disegno Ceramica Neo
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
 --- !u!1001 &1062512338
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10504,6 +10573,75 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b3ad549ca15c63d40ac2c5e50bf40aa9, type: 3}
   m_PrefabInstance: {fileID: 938868411}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1097249813
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15.355
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.644
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.15395
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2371356195453910193, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43fb126acb60cf441b9bea9a99d8d2f5, type: 2}
+    - target: {fileID: -2124556216270073660, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43fb126acb60cf441b9bea9a99d8d2f5, type: 2}
+    - target: {fileID: -1821883719999131711, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a2f466b85279a3e438c02ced36476ae7, type: 2}
+    - target: {fileID: 919132149155446097, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Name
+      value: Disegno Ceramica Neo (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
 --- !u!4 &1115385066 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b3ad549ca15c63d40ac2c5e50bf40aa9, type: 3}
@@ -10579,6 +10717,75 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6d6ce33b43be4ea4587a9d837bad8c98, type: 3}
   m_PrefabInstance: {fileID: 1124586882}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1133978757
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.955
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.644
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.15395
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2371356195453910193, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43fb126acb60cf441b9bea9a99d8d2f5, type: 2}
+    - target: {fileID: -2124556216270073660, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43fb126acb60cf441b9bea9a99d8d2f5, type: 2}
+    - target: {fileID: -1821883719999131711, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a2f466b85279a3e438c02ced36476ae7, type: 2}
+    - target: {fileID: 919132149155446097, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Name
+      value: Disegno Ceramica Neo (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
 --- !u!1 &1146936257
 GameObject:
   m_ObjectHideFlags: 0
@@ -20117,6 +20324,75 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2128344768}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &2130578804
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -16.654999
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.644
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.15395
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2371356195453910193, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43fb126acb60cf441b9bea9a99d8d2f5, type: 2}
+    - target: {fileID: -2124556216270073660, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 43fb126acb60cf441b9bea9a99d8d2f5, type: 2}
+    - target: {fileID: -1821883719999131711, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a2f466b85279a3e438c02ced36476ae7, type: 2}
+    - target: {fileID: 919132149155446097, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
+      propertyPath: m_Name
+      value: Disegno Ceramica Neo (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4d214881c02791d429529a3b66cef50a, type: 3}
 --- !u!1 &2133814237
 GameObject:
   m_ObjectHideFlags: 0
@@ -20384,3 +20660,7 @@ SceneRoots:
   - {fileID: 1576622096}
   - {fileID: 1159521315}
   - {fileID: 1917879039}
+  - {fileID: 1056382266}
+  - {fileID: 1097249813}
+  - {fileID: 2130578804}
+  - {fileID: 1133978757}
