@@ -1,0 +1,12 @@
+# Blender MTL File: 'Bedside table.blend'
+# Material Count: 1
+
+newmtl Wood
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.118190 0.118190 0.118190
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Bedside table\\wood.tif
