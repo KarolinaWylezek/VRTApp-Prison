@@ -4170,6 +4170,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 676711684457278433, guid: 9908dcf284aef0e4a8ba245dc5f0f080, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1813949618548957887, guid: 9908dcf284aef0e4a8ba245dc5f0f080, type: 3}
       propertyPath: m_LocalPosition.x
       value: -19.9
@@ -4317,7 +4321,7 @@ MonoBehaviour:
   sceneIsSingleUser: 0
   NextSceneOnSessionEnd: CommonCell
   m_directInteractionDisabled: 0
-  autoAdvanceDelay: 27
+  autoAdvanceDelay: 300
 --- !u!1 &1576379231
 GameObject:
   m_ObjectHideFlags: 0
