@@ -4321,7 +4321,7 @@ MonoBehaviour:
   sceneIsSingleUser: 0
   NextSceneOnSessionEnd: CommonCell
   m_directInteractionDisabled: 0
-  autoAdvanceDelay: 300
+  autoAdvanceDelay: 27
 --- !u!1 &1576379231
 GameObject:
   m_ObjectHideFlags: 0
